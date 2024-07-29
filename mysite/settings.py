@@ -26,9 +26,9 @@ SECRET_KEY = "django-insecure-ilo%n*eiq5!60#n4-8y&$tccn*%xharbt+2#behpi-9-x%051p
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    ".ap-northeast-2.compute.amazonaws.com"
+    ".ap-northeast-2.compute.amazonaws.com",
+    ".dlidam.store",
 ]
-
 
 # Application definition
 
